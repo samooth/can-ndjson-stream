@@ -1,9 +1,8 @@
 var testee = require("testee");
 
 testee.test(['test.html'], [{
-	"os": "windows",
-	"os_version": "10",
-	"browser": "chrome",
+	"os": "linux",
+	"browser": "firefox",
 	"browser_version": "latest"
 },]).then(function() {
 	process.exitCode = 0;
