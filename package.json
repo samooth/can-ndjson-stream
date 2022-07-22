@@ -45,15 +45,15 @@
     ]
   },
   "devDependencies": {
-    "detect-cyclic-packages": "^1.1.0",
-    "http-server": "^0.11.0",
-    "jshint": "^2.9.1",
-    "saucelabs": "^2.1.9",
-    "steal": "^1.0.5",
+    "detect-cyclic-packages": "^1.1.1",
+    "http-server": "^14.1.1",
+    "jshint": "^2.13.5",
+    "saucelabs": "^7.2.0",
+    "steal": "^2.3.0",
     "steal-qunit": "^2.0.0",
-    "steal-tools": "^2.2.2",
+    "steal-tools": "^2.3.0",
     "test-saucelabs": "0.0.6",
-    "testee": "^0.9.1"
+    "testee": "^0.10.2"
   },
   "licenses": [
     {
